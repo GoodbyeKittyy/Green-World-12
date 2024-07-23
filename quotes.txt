@@ -3848,3 +3848,4 @@ Quote on |Tue, 23 Jul 2024 14:44:23 GMT| :  If there is such a thing as a good m
 Quote on |Tue, 23 Jul 2024 14:52:36 GMT| :  Minds are like parachutes. They only function when open. - Thomas Dewar
 Quote on |Tue, 23 Jul 2024 15:07:46 GMT| :  The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward
 Quote on |Tue, 23 Jul 2024 15:25:37 GMT| :  Fame usually comes to those who are thinking about something else. - Oliver Wendell Holmes Jr.
+Quote on |Tue, 23 Jul 2024 15:34:53 GMT| :  To fly as fast as thought, you must begin by knowing that you have already arrived. - Richard Bach
